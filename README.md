@@ -1,1 +1,2 @@
-# -TypeScript_Selenium_Cucumber_Gherkin_WebDriverIO_saucedemo.com
+## Automated Selenium TS (Cucumber-Jenkins) tests on `saucedemo.com` 
+OOP  tests performed on login, menuOptions, ordering items functionalities,...
